@@ -4,32 +4,32 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = '𝐈𝐑𝐒𝐀𝐍 𝐆𝐀𝐍𝐙あ⁩⁩'
-global.numberowner = '+855 38 786 9292'
+global.nameowner = 'Bang dimz⁩⁩'
+global.numberowner = '+6283894556422'
 global.instagram = 'https://instagram.com/'
-global.github = 'https://github.com/'
-global.dana = '089691183687'
-global.pulsa = '089691183687'
-global.gopay = 'https://wa.me/p/5189619011129791/855387869292'
+global.github = ''
+global.ovo = '083894556422'
+global.pulsa = '083894556422'
+global.gopay = 'gk ada'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝐒𝐀𝐍⁩-Md'
-global.gc = 'https://chat.whatsapp.com/BAwvBXQGfWq2fpscqIiuAn'
-global.web = 'https://youtube.com/channel/UCSkb2IZTJ7RuPvrcZKFFjtg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'Gawrgura-bot'
+global.gc = 'https://chat.whatsapp.com/BB5SqHuEfTGCjP5P4CbRRp'
+global.web = 'https://youtube.com/c/BANGDIMZPRESET2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.ibb.co/2tmSPm9/20220620-195606.png' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.ibb.co/2tmSPm9/20220620-195606.png' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/87cdeed5c841b84ddf6d3.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/87cdeed5c841b84ddf6d3.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'SAN-MD'
+global.wm = 'Gawrgura-MD'
 global.watermark = wm
-global.wm2 = '                     「 SAN-MD あ⁩ 」'
-global.wm3 = '⫹⫺ SAN-MD'
+global.wm2 = '                     「 bang dimzあ⁩ 」'
+global.wm3 = '⫹⫺ Gawrgura-MD'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/87cdeed5c841b84ddf6d3.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
